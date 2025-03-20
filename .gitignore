@@ -1,0 +1,9 @@
+# Ignore the data directory
+data/
+
+# Ignore all .bin files (if needed)
+*.bin
+
+# Ignore temporary files
+__pycache__/
+*.log
